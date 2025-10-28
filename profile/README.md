@@ -1,12 +1,14 @@
-## Hi there 👋
+# 湖大地理信息服务与AI研究小组
 
-<!--
+## 1，主要研究方向
 
-**Here are some ideas to get you started:**
+- 地理信息服务
+- 地理大数据
+- 地理与AI模型应用
+- 地理与知识图谱
+- ...
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 2，主要研究成果
+
+- 吴敏,张明达,李盼盼,等.面向多源遥感影像数据的溯源模型研究[J].地球信息科学学报,2023,25(07):1325-1335.
+- Zhang, M., Z. Guo, P. Li, et al.  2025. “A Cloud-Based Geoprocessing Platform Based on Extended OGC API-Processes Standard and PyQGIS.” *Transactions in GIS*  29, no. 5: e70094. [https://doi.org/10.1111/tgis.70094](https://www.sci-hub.vg/10.1111/tgis.70094).
