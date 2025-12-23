@@ -15,3 +15,4 @@
 - 张明达,乐鹏,高凡.组件与服务耦合的地学模型集成方法与实现[J].武汉大学学报(信息科学版),2018,43(07):1106-1112.
 - Zhang, M., Yue, P., Hu, L., Wu, H., & Zhang, F. (2023). An interoperable and service-oriented approach for real-time environmental simulation by coupling OGC WPS and SensorThings API. Environmental Modelling & Software, 165, 105722.
 - Zhang, M., Guo, Z., Li, P., Hu, L.,  Qiao, Y., Wang, H., ... & Chen, Z. (2025). A Cloud‐Based  Geoprocessing Platform Based on Extended OGC API‐Processes Standard and  PyQGIS. *Transactions in GIS*, *29*(5), e70094.
+- Yan, H., Zhang, M., Tian, S., Wu, L., Mei, X., & Hu, L. (2026). Enhancing Real-Time Hydrological Simulation with IoT-Based Model Representation and Observation Data. Water, 18(1), 2.
